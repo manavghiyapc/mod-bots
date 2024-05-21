@@ -5,7 +5,7 @@ import random
 intents = discord.Intents.all()
 bot = discord.Bot(intents=intents)
 
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1134502151578734782/35kEwlFJ8Lvda9810Re3ZUT6tDk0Sy5Q05GO47AqBetxA8RatIblCxDiSfJPwYIG-Dzb'
+WEBHOOK_URL = 'hook url'
 
 excluded_channel_ids = [
     997900675621081228
